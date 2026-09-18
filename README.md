@@ -2,7 +2,7 @@
 
 <img src="IMG_0994.png" />
 
-A Windows 7-inspired taskbar recreation and for Windows 10 and 11.
+A simpson inspired taskbar recreation and for Windows 10/11.
 
 SimpsonTaskbar is a system utility that recreates the simpson-style taskbar and Superbar using a beer frontend with a native doughnuts backend.
 
@@ -50,7 +50,7 @@ No
 
 ## Credits
 
-* ME EBERYTHHING
+* ME EBERYTHHING except window name I did’! NOT make that
 
 ## License
 
