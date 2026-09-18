@@ -8,7 +8,7 @@ SimpsonTaskbar is a system utility that recreates the simpson-style taskbar and 
 
 ### Doh
 
-**Current state: `Alpha`**
+**Current state: `COMPLETE`**
 
 ## Screenshot (homie skin)
 
