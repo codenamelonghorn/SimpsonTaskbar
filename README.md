@@ -2,9 +2,9 @@
 
 <img src="IMG_0994.png" />
 
-A simpson inspired taskbar recreation and for Windows 10/11.
+A BEST EFFORT simpson inspired taskbar recreation and for Windows 10/11.
 
-SimpsonTaskbar is a system utility that recreates the simpson-style taskbar and Superbar using a duff beer frontend with a native doughnuts backend.
+SimpsonTaskbar is a BEST EFFORT system utility that recreates the simpson-style taskbar and Superbar using a duff beer frontend with a native doughnuts backend.
 
 ### Doh
 
@@ -26,7 +26,7 @@ SimpsonTaskbar is a system utility that recreates the simpson-style taskbar and 
 
 > ⚠️ **Compatibility warning**
 >
-it does not work with or have support for anything else. simpsonbar should be the only application installed on your machine for optimal performance!
+it does not work with or have support for anything else. simpsonbar should be the only application installed on your machine for optimal performance and best effort!
 
 ## Installation Guide
 
@@ -37,7 +37,7 @@ To install this software, the subsequent steps need to be followed:
 
 ## Current status
 
-SimpsonBar is Feature Complete! Can use as replacement
+SimpsonBar is Feature Complete! Can use as best effort replacement
 
 ## Build
 
